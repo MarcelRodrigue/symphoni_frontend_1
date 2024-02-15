@@ -24,7 +24,7 @@ Your users should be able to:
   - The email address is not formatted correctly
   - A step is submitted, but no selection has been made
 
-If you need support during the challenge, feel free to ask questions to your recruiter.
+If you need support during the challenge, feel free to ask questions to your recruter.
 
 ## Where to find everything
 
