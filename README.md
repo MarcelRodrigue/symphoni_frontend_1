@@ -4,14 +4,13 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this Symphoni Social front-end coding challenge.
-do well to creat a clone of this repository (ps: like and follow 😂)
+Thanks for checking out this Symphoni Social front-end coding challenge. Please clone this repository and ensure you follow the instructions carefully. This challenge aims to evaluate your file structure, knowledge of components, and state management (ps: don't forget to like and follow 😂).
 
 **To do this challenge, you need a good understanding of React.js, TypeScript, Tailwind CSS, and Zustand.**
 
 ## The challenge
 
-Your challenge is to build out this multi-step form and get it looking as close to the design as possible.
+Your challenge is to build out this multi-step form and make it look as close to the design as possible.
 
 Your users should be able to:
 
